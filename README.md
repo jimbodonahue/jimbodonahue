@@ -1,13 +1,13 @@
-## Data nerd looking to get more into the coding world...
+## Data nerd getting more into the coding world...
 
-My educational background is economics, which led to Bayesian statistics, which led to ... if you know, you know.
+My educational background is economics, which led to Bayesian statistics, which led to a deep dive into statistical models that continues to this day.
 
 Currently working on a portfolio to show off my skills. Also, trying to build those skills. Current goals:
-- grabbing data with APIs
-- getting my Linux machine to talk to others
-- moving deeper into Python for data cleaning, graphics, etc
-- R Shiny, Tidy*, etc
-- Speak and write German at a C1 level
+- Grabbing data with APIs
+- Getting my Linux machine to talk to others
+- Moving deeper into Python for data cleaning, graphics, etc
+- Geospatial analysis
+- Speaking and writing German at a C1 level
 
 Any questions, comments, suggestions, or complaints, feel free to reach out!
 
